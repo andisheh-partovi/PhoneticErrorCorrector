@@ -1,0 +1,898 @@
+<item>
+bag handbag 3.68887945411394
+bag purse 3.68887945411394
+bag suitcase 3.68887945411394
+bag sack 2.99573227355399
+bag case 2.59026716544583
+bag backpack 2.99573227355399
+bag rucksack 2.99573227355399
+bag knapsack 2.99573227355399
+bag thing 2.07944154167984
+bag item 1.89711998488588
+bag object 1.89711998488588
+bag here 1.6094379124341
+bag there 1.6094379124341
+</item>
+
+<item>
+ball sphere 2.99573227355399
+ball globe 3.68887945411394
+ball orb 3.68887945411394
+ball toy 2.99573227355399
+ball plaything 2.99573227355399
+ball beach_ball 2.99573227355399
+ball tennis_ball 2.99573227355399
+ball billiard_ball 2.99573227355399
+ball basketball 2.99573227355399
+ball thing 2.30258509299405
+ball item 2.07944154167984
+ball object 2.07944154167984
+ball here 1.74296930505862
+ball there 1.74296930505862
+</item>
+
+<item>
+beach_ball ball 2.99573227355399
+beach_ball sphere 2.07944154167984
+beach_ball globe 1.89711998488588
+beach_ball toy 2.59026716544583
+beach_ball plaything 2.59026716544583
+beach_ball tennis_ball 1.49165487677772
+beach_ball billiard_ball 1.49165487677772
+beach_ball basketball 1.49165487677772
+beach_ball thing 2.07944154167984
+beach_ball item 1.89711998488588
+beach_ball object 1.89711998488588
+beach_ball here 1.6094379124341
+beach_ball there 1.6094379124341
+</item>
+
+<item>
+biro pencil 2.30258509299405
+biro pen 2.99573227355399
+biro instrument 1.74296930505862
+biro tool 2.07944154167984
+biro thing 1.74296930505862
+biro item 1.6094379124341
+biro object 1.6094379124341
+biro here 1.38629436111989
+biro there 1.38629436111989
+</item>
+
+<item>
+bowl vessel 2.99573227355399
+bowl soup_bowl 2.99573227355399
+bowl slop_bowl 2.99573227355399
+bowl salad_bowl 2.99573227355399
+bowl punch_bowl 2.99573227355399
+bowl mixing_bowl 2.99573227355399
+bowl finger_bowl 2.99573227355399
+bowl dish 2.99573227355399
+bowl container 2.99573227355399
+bowl cereal_bowl 2.99573227355399
+bowl ramekin 2.59026716544583
+bowl washbowl 2.30258509299405
+bowl thing 2.07944154167984
+bowl item 2.07944154167984
+bowl object 1.89711998488588
+bowl here 1.6094379124341
+bowl there 1.6094379124341
+</item>
+
+<item>
+book volume 3.68887945411394
+book publication 2.99573227355399
+book tome 2.99573227355399
+book novel 2.99573227355399
+book hardcover 2.99573227355399
+book paperback 2.99573227355399
+book thing 2.07944154167984
+book item 1.89711998488588
+book object 1.89711998488588
+book here 1.6094379124341
+book there 1.6094379124341
+</item>
+
+<item>
+bookcase bookshelf 1.6094379124341
+bookcase shelf 1.74296930505862
+bookcase shelves 1.74296930505862
+bookcase furniture 2.99573227355399
+bookcase thing 1.89711998488588
+bookcase item 1.74296930505862
+bookcase object 1.74296930505862
+bookcase here 1.49165487677772
+bookcase there 1.49165487677772
+</item>
+
+<item>
+bookshelf bookcase 1.6094379124341
+</item>
+
+<item>
+box shoebox 2.99573227355399
+box playbox 2.99573227355399
+box container 2.99573227355399
+box compartment 2.99573227355399
+box receptacle 2.59026716544583
+box carton 2.99573227355399
+box thing 2.07944154167984
+box item 1.89711998488588
+box object 1.89711998488588
+box here 1.6094379124341
+box there 1.6094379124341
+</item>
+
+<item>
+can tin 3.68887945411394
+can tin_can 3.68887945411394
+can beer_can 2.99573227355399
+can container 2.99573227355399
+can thing 2.30258509299405
+can item 1.89711998488588
+can object 1.89711998488588
+can here 1.6094379124341
+can there 1.6094379124341
+</item>
+
+<item>
+carpet rug 3.68887945411394
+carpet mat 2.59026716544583
+carpet shag_rug 2.99573227355399
+carpet carpeting 3.68887945411394
+carpet floor 1.89711998488588
+carpet thing 2.07944154167984
+carpet item 2.30258509299405
+carpet object 2.30258509299405
+carpet here 1.89711998488588
+carpet there 1.89711998488588
+</item>
+
+<item>
+chair furniture 2.59026716544583
+chair seat 2.99573227355399
+chair thing 1.74296930505862
+chair item 1.6094379124341
+chair object 1.74296930505862
+chair here 1.49165487677772
+chair there 1.49165487677772
+</item>
+
+<item>
+chest drawers 1.29098418131557
+chest drawer 2.30258509299405
+chest chest_of_drawers 3.68887945411394
+chest bureau 3.68887945411394
+chest dresser 3.68887945411394
+chest furniture 2.99573227355399
+chest commode 2.99573227355399
+chest chiffonier 2.99573227355399
+chest thing 2.30258509299405
+chest item 1.74296930505862
+chest object 1.89711998488588
+chest here 1.6094379124341
+chest there 1.6094379124341
+</item>
+
+<item>
+computer desktop 1.74296930505862
+computer hard_drive 2.07944154167984
+computer drive 2.30258509299405
+computer laptop 2.07944154167984
+computer machine 2.99573227355399
+computer instrument 2.30258509299405
+computer PC 2.59026716544583
+computer personal_computer 2.59026716544583
+computer thing 1.89711998488588
+computer item 1.74296930505862
+computer object 1.89711998488588
+computer here 1.6094379124341
+computer there 1.6094379124341
+</item>
+
+<item>
+container bag 2.99573227355399
+container basket 2.99573227355399
+container bin 2.99573227355399
+container bowl 2.99573227355399
+container box 2.99573227355399
+container can 2.99573227355399
+container case 2.99573227355399
+container cup 2.99573227355399
+container dish 2.99573227355399
+container glass 2.99573227355399
+container handbag 2.99573227355399
+container pan 2.99573227355399
+container purse 2.99573227355399
+container tin 2.99573227355399
+container tumbler 2.59026716544583
+container vessel 2.99573227355399
+container thing 2.30258509299405
+container item 2.07944154167984
+container object 2.07944154167984
+container here 1.74296930505862
+container there 1.74296930505862
+</item>
+
+<item>
+cup chalice 2.99573227355399
+cup mug 2.59026716544583
+cup glass 2.59026716544583
+cup teacup 2.99573227355399
+cup coffee_cup 2.99573227355399
+cup tumbler 2.30258509299405
+cup thing 2.07944154167984
+cup item 2.07944154167984
+cup object 1.89711998488588
+cup here 1.6094379124341
+cup there 1.6094379124341
+</item>
+
+<item>
+desk writing_table 2.99573227355399
+desk writing_desk 2.99573227355399
+desk table 2.99573227355399
+desk secretary 2.99573227355399
+desk secretaire 2.99573227355399
+desk escritoire 2.99573227355399
+desk davenport 2.99573227355399
+desk worktable 2.59026716544583
+desk bureau 2.30258509299405
+desk thing 1.74296930505862
+desk item 1.6094379124341
+desk object 1.6094379124341
+desk here 1.38629436111989
+desk there 1.38629436111989
+</item>
+
+<item>
+desk_lamp lamp 2.99573227355399
+desk_lamp light 1.74296930505862
+desk_lamp electric_lamp 1.49165487677772
+desk_lamp fluorescent_lamp 1.49165487677772
+desk_lamp lantern 1.49165487677772
+desk_lamp floor_lamp 2.59026716544583
+desk_lamp table_lamp 2.99573227355399
+desk_lamp reading_lamp 2.59026716544583
+desk_lamp furniture 2.59026716544583
+desk_lamp thing 1.74296930505862
+desk_lamp item 1.6094379124341
+desk_lamp object 1.6094379124341
+desk_lamp here 1.38629436111989
+desk_lamp there 1.38629436111989
+</item>
+
+<item>
+desktop computer 1.74296930505862
+desktop laptop 1.29098418131557
+desktop machine 1.89711998488588
+desktop instrument 1.89711998488588
+desktop PC 1.49165487677772
+desktop personal_computer 1.49165487677772
+desktop thing 1.6094379124341
+desktop item 1.49165487677772
+desktop object 1.49165487677772
+desktop here 1.49165487677772
+desktop there 1.49165487677772
+</item>
+
+
+<item>
+dinner_plate plate 2.99573227355399
+dinner_plate salad_plate 2.59026716544583
+dinner_plate soup_plate 2.59026716544583
+dinner_plate paper_plate 2.59026716544583
+dinner_plate dessert_plate 2.59026716544583
+dinner_plate dish 1.89711998488588
+dinner_plate saucer 2.30258509299405
+dinner_plate platter 2.30258509299405
+dinner_plate receptacle 1.38629436111989
+dinner_plate thing 1.6094379124341
+dinner_plate item 1.49165487677772
+dinner_plate object 1.49165487677772
+dinner_plate here 1.29098418131557
+dinner_plate there 1.29098418131557
+</item>
+
+<item>
+dinner_table table 2.99573227355399
+dinner_table work_table 1.89711998488588
+dinner_table coffee_table 1.89711998488588
+dinner_table desk 1.89711998488588
+dinner_table bureau 2.07944154167984
+dinner_table furniture 2.30258509299405
+dinner_table thing 1.6094379124341
+dinner_table item 1.49165487677772
+dinner_table object 1.49165487677772
+dinner_table here 1.29098418131557
+dinner_table there 1.29098418131557
+</item>
+
+<item>
+dish bowl 2.99573227355399
+dish mug 2.59026716544583
+dish plate 2.59026716544583
+</item>
+
+<item>
+duster eraser 1.74296930505862
+duster instrument 1.74296930505862
+duster thing 2.07944154167984
+duster item 1.89711998488588
+duster object 2.07944154167984
+duster here 1.74296930505862
+duster there 1.74296930505862
+</item>
+
+<item>
+earmuff headphone 1.49165487677772
+earmuff earphone 1.49165487677772
+earmuff headset 1.29098418131557
+earmuff thing 2.07944154167984
+earmuff item 2.07944154167984
+earmuff object 1.89711998488588
+earmuff here 1.6094379124341
+earmuff there 1.6094379124341
+</item>
+
+<item>
+earphone headphone 3.68887945411394
+earphone earmuff 1.49165487677772
+earphone headset 2.59026716544583
+earphone thing 1.6094379124341
+earphone item 1.49165487677772
+earphone object 1.49165487677772
+earphone here 1.29098418131557
+earphone there 1.29098418131557
+</item>
+
+<item>
+eraser duster 1.74296930505862
+eraser instrument 2.07944154167984
+eraser thing 2.07944154167984
+eraser item 1.89711998488588
+eraser object 1.89711998488588
+eraser here 1.6094379124341
+eraser there 1.6094379124341
+</item>
+
+<item>
+file record 2.99573227355399
+file binder 1.49165487677772
+file report 1.6094379124341
+file document 2.59026716544583
+file thing 1.74296930505862
+file item 1.6094379124341
+file object 1.6094379124341
+file here 1.38629436111989
+file there 1.38629436111989
+</item>
+
+<item>
+floor_lamp lamp 2.99573227355399
+floor_lamp light 1.74296930505862
+floor_lamp electric_lamp 1.49165487677772
+floor_lamp fluorescent_lamp 1.49165487677772
+floor_lamp lantern 1.49165487677772
+floor_lamp desk_lamp 2.59026716544583
+floor_lamp table_lamp 2.59026716544583
+floor_lamp reading_lamp 2.59026716544583
+floor_lamp furniture 2.59026716544583
+floor_lamp thing 1.74296930505862
+floor_lamp item 1.6094379124341
+floor_lamp object 1.6094379124341
+floor_lamp here 1.38629436111989
+floor_lamp there 1.38629436111989
+</item>
+
+<item>
+folder file 1.6094379124341
+folder binder 2.30258509299405
+folder booklet 3.68887945411394
+folder cover 2.59026716544583
+folder thing 2.30258509299405
+folder item 2.07944154167984
+folder object 2.07944154167984
+folder here 1.74296930505862
+folder there 1.74296930505862
+</item>
+
+<item>
+glass cup 2.59026716544583
+glass dish 2.59026716544583
+glass chalice 2.30258509299405
+glass tumbler 2.99573227355399
+glass flagon 2.30258509299405
+glass vessel 2.59026716544583
+glass goblet 2.99573227355399
+glass beer_glass 2.99573227355399
+glass vase 2.07944154167984
+glass water_glass 2.99573227355399
+glass wineglass 2.99573227355399
+glass wine_glass 2.99573227355399
+glass container 2.99573227355399
+glass thing 2.07944154167984
+glass item 1.89711998488588
+glass object 2.07944154167984
+glass here 1.74296930505862
+glass there 1.74296930505862
+</item>
+
+<item>
+hammer mallet 3.68887945411394
+hammer screwdriver 2.59026716544583
+hammer instrument 2.07944154167984
+hammer tool 2.59026716544583
+hammer implement 2.30258509299405
+hammer thing 1.89711998488588
+hammer item 1.74296930505862
+hammer object 1.74296930505862
+hammer here 1.49165487677772
+hammer there 1.49165487677772
+
+</item>
+
+<item>
+headphone earmuff 1.49165487677772
+</item>
+
+<item>
+headset earmuff 1.29098418131557
+</item>
+
+<item>
+knife weapon 2.99573227355399
+knife tool 2.07944154167984
+knife opener 1.74296930505862
+knife cutter 2.59026716544583
+knife cutlery 2.59026716544583
+knife instrument 2.59026716544583
+knife butter_knife 2.59026716544583
+knife butcher_knife 2.99573227355399
+knife bread_knife 2.99573227355399
+knife carving_knife 2.99573227355399
+knife paring_knife 2.99573227355399
+knife pruning_knife 2.99573227355399
+knife pocket_knife 2.99573227355399
+knife cleaver 2.99573227355399
+knife letter_opener 2.99573227355399
+knife thing 1.74296930505862
+knife item 1.6094379124341
+knife object 1.6094379124341
+knife here 1.38629436111989
+knife there 1.38629436111989
+</item>
+
+<item>
+lamp electric_lamp 2.99573227355399
+lamp fluorescent_lamp 2.99573227355399
+lamp lantern 2.99573227355399
+lamp floor_lamp 2.99573227355399
+lamp desk_lamp 2.99573227355399
+lamp reading_lamp 2.99573227355399
+lamp table_lamp 2.99573227355399
+lamp light 2.59026716544583
+lamp furniture 2.99573227355399
+lamp thing 1.89711998488588
+lamp item 1.74296930505862
+lamp object 1.74296930505862
+lamp here 1.49165487677772
+lamp there 1.49165487677772
+</item>
+
+<item>
+laptop computer 2.07944154167984
+laptop desktop 1.29098418131557
+laptop PC 2.59026716544583
+laptop portable 1.38629436111989
+laptop notebook 2.59026716544583
+laptop portable_computer 2.99573227355399
+laptop personal_computer 2.59026716544583
+laptop instrument 1.6094379124341
+laptop thing 1.38629436111989
+laptop item 1.29098418131557
+laptop object 1.29098418131557
+laptop here 1.1239300966524
+laptop there 1.1239300966524
+</item>
+
+<item>
+microwave microwave_oven 3.68887945411394
+microwave oven 2.59026716544583
+microwave stove 2.59026716544583
+microwave warmer 1.29098418131557
+microwave kitchen_appliance 2.99573227355399
+microwave appliance 2.30258509299405
+microwave home_appliance 2.59026716544583
+microwave grill 1.20397280432594
+microwave cooker 1.04982212449868
+microwave thing 1.49165487677772
+microwave item 1.38629436111989
+microwave object 1.38629436111989
+microwave here 1.20397280432594
+microwave there 1.20397280432594
+</item>
+
+<item>
+monitor video_display 2.99573227355399
+monitor tv_monitor 2.99573227355399
+monitor terminal 2.59026716544583
+monitor television_monitor 2.99573227355399
+monitor electronic_equipment 2.99573227355399
+monitor display 2.99573227355399
+monitor computer_monitor 2.99573227355399
+monitor screen 2.59026716544583
+monitor thing 1.89711998488588
+monitor item 1.74296930505862
+monitor object 1.74296930505862
+monitor here 1.49165487677772
+monitor there 1.49165487677772
+</item>
+
+<item>
+mug stein 2.99573227355399
+mug container 2.30258509299405
+mug drinking_vessel 2.99573227355399
+mug vessel 2.59026716544583
+mug coffee_mug 2.99573227355399
+mug beer_mug 2.99573227355399
+mug dish 2.59026716544583
+mug teacup 2.59026716544583
+mug cup 2.59026716544583
+mug tankard 2.59026716544583
+mug jug 2.59026716544583
+mug flagon 2.30258509299405
+mug drink 1.89711998488588
+mug thing 1.89711998488588
+mug item 1.74296930505862
+mug object 1.89711998488588
+mug here 1.6094379124341
+mug there 1.6094379124341
+</item>
+
+<item>
+newspaper paper 3.68887945411394
+newspaper publication 2.30258509299405
+newspaper daily 2.99573227355399
+newspaper magazine 2.59026716544583
+newspaper rag 2.99573227355399
+newspaper tabloid 2.99573227355399
+newspaper thing 2.07944154167984
+newspaper item 1.89711998488588
+newspaper object 1.89711998488588
+newspaper here 1.6094379124341
+newspaper there 1.6094379124341
+</item>
+
+<item>
+pen biro 2.99573227355399
+pen pencil 2.59026716544583
+pen ballpoint 2.99573227355399
+pen ballpoint_pen 2.99573227355399
+pen fountain_pen 2.99573227355399
+pen marker 2.59026716544583
+pen felt-tip_pen 2.99573227355399
+pen instrument 1.89711998488588
+pen tool 2.30258509299405
+pen thing 1.89711998488588
+pen item 1.74296930505862
+pen object 1.74296930505862
+pen here 1.49165487677772
+pen there 1.49165487677772
+</item>
+
+<item>
+pencil pen 2.59026716544583
+pencil biro 2.30258509299405
+pencil lead 2.59026716544583
+pencil marker 2.59026716544583
+pencil implement 2.59026716544583
+pencil instrument 1.89711998488588
+pencil tool 2.30258509299405
+pencil thing 2.07944154167984
+pencil item 1.74296930505862
+pencil object 1.74296930505862
+pencil here 1.49165487677772
+pencil there 1.49165487677772
+</item>
+
+<item>
+plant houseplant 2.99573227355399
+plant pot_plant 2.99573227355399
+plant flower_pot 1.74296930505862
+plant pot 2.63905732961526
+plant flower 2.07944154167984
+plant thing 2.07944154167984
+plant item 2.07944154167984
+plant object 2.07944154167984
+plant here 1.74296930505862
+plant there 1.74296930505862
+</item>
+
+<item>
+plate dinner_plate 2.99573227355399
+plate salad_plate 2.99573227355399
+plate soup_plate 2.99573227355399
+plate paper_plate 2.99573227355399
+plate dessert_plate 2.99573227355399
+plate dish 2.59026716544583
+plate saucer 2.59026716544583
+plate platter 2.59026716544583
+plate receptacle 2.99573227355399
+plate thing 2.30258509299405
+plate item 2.07944154167984
+plate object 2.07944154167984
+plate here 1.89711998488588
+plate there 1.89711998488588
+</item>
+
+<item>
+plunger coffee_plunger 3.68887945411394
+plunger teapot 1.49165487677772
+plunger jug 1.49165487677772
+plunger thing 1.89711998488588
+plunger item 1.74296930505862
+plunger object 1.89711998488588
+plunger here 1.6094379124341
+plunger there 1.6094379124341
+</item>
+
+<item>
+portrait painting 1.6094379124341
+portrait picture 2.99573227355399
+portrait image 2.59026716544583
+portrait depiction 2.99573227355399
+portrait thing 2.07944154167984
+portrait item 1.6094379124341
+portrait object 1.6094379124341
+portrait here 1.38629436111989
+portrait there 1.38629436111989
+</item>
+
+<item>
+rug carpet 3.68887945411394
+rug mat 2.59026716544583
+rug carpeting 3.68887945411394
+rug shag_rug 2.99573227355399
+rug thing 2.07944154167984
+rug item 1.89711998488588
+rug object 1.89711998488588
+rug here 1.6094379124341
+rug there 1.6094379124341
+</item>
+
+<item>
+screwdriver hammer 2.59026716544583
+screwdriver Phillips_screwdriver 2.99573227355399
+screwdriver flat_tip_screwdriver 2.99573227355399
+screwdriver instrument 1.74296930505862
+screwdriver tool 2.59026716544583
+screwdriver implement 2.30258509299405
+screwdriver screw 1.49165487677772
+screwdriver thing 1.74296930505862
+screwdriver item 1.6094379124341
+screwdriver object 1.6094379124341
+screwdriver here 1.38629436111989
+screwdriver there 1.38629436111989
+</item>
+
+<item>
+sink basin 2.99573227355399
+sink washbowl 2.99573227355399
+sink washstand 2.99573227355399
+sink kitchen_sink 2.99573227355399
+sink lavatory 2.99573227355399
+sink thing 2.07944154167984
+sink item 1.89711998488588
+sink object 2.30258509299405
+sink here 1.89711998488588
+sink there 1.89711998488588
+</item>
+
+<item>
+stool seat 2.99573227355399
+stool chair 2.59026716544583
+stool step_stool 2.99573227355399
+stool furniture 2.59026716544583
+stool thing 2.07944154167984
+stool item 1.89711998488588
+stool object 1.89711998488588
+stool here 1.6094379124341
+stool there 1.6094379124341
+</item>
+
+<item>
+straight_chair chair 2.99573227355399
+straight_chair side_chair 3.68887945411394
+straight_chair seat 2.59026716544583
+straight_chair swivel_chair 2.59026716544583
+straight_chair rocking_chair 2.59026716544583
+straight_chair rocker 2.59026716544583
+straight_chair furniture 2.30258509299405
+straight_chair thing 1.6094379124341
+straight_chair item 1.49165487677772
+straight_chair object 1.49165487677772
+straight_chair here 1.29098418131557
+straight_chair there 1.29098418131557
+</item>
+
+<item>
+table worktable 2.99573227355399
+table work_table 2.99573227355399
+table dressing_table 2.99573227355399
+table dinner_table 2.99573227355399
+table dining_table 2.99573227355399
+table desk 2.99573227355399
+table counter 2.99573227355399
+table console 2.99573227355399
+table coffee_table 2.99573227355399
+table card_table 2.99573227355399
+table bureau 2.59026716544583
+table davenport 2.59026716544583
+table furniture 2.99573227355399
+table thing 1.89711998488588
+table item 1.74296930505862
+table object 1.89711998488588
+table here 1.6094379124341
+table there 1.6094379124341
+</item>
+
+<item>
+television TV 3.68887945411394
+television tv 3.68887945411394
+television video 3.68887945411394
+television tv_set 3.68887945411394
+television set 2.59026716544583
+television box 1.74296930505862
+television thing 1.74296930505862
+television item 1.6094379124341
+television object 1.6094379124341
+television here 1.38629436111989
+television there 1.38629436111989
+</item>
+
+<item>
+teacup cup 2.99573227355399
+</item>
+
+<item>
+telephone phone 3.68887945411394
+telephone mobile 1.38629436111989
+telephone cellphone 2.59026716544583
+telephone desk_phone 2.99573227355399
+telephone instrument 1.89711998488588
+telephone thing 1.89711998488588
+telephone item 1.74296930505862
+telephone object 1.74296930505862
+telephone here 1.49165487677772
+telephone there 1.49165487677772
+</item>
+
+<item>
+transistor valve 2.07944154167984
+transistor cylinder 1.74296930505862
+transistor lightbulb 1.6094379124341
+transistor instrument 2.07944154167984
+transistor tool 1.74296930505862
+transistor thing 1.74296930505862
+transistor item 1.6094379124341
+transistor object 1.6094379124341
+transistor here 1.38629436111989
+transistor there 1.38629436111989
+</item>
+
+<item>
+tumbler glass 2.99573227355399
+tumbler cup 2.30258509299405
+tumbler teacup 2.07944154167984
+tumbler thing 2.07944154167984
+tumbler item 1.89711998488588
+tumbler object 1.89711998488588
+tumbler here 1.6094379124341
+tumbler there 1.6094379124341
+</item>
+
+<item>
+vacuum_tube lightbulb 1.74296930505862
+vacuum_tube valve 2.30258509299405
+vacuum_tube cylinder 1.89711998488588
+vacuum_tube thing 1.89711998488588
+vacuum_tube item 1.74296930505862
+vacuum_tube object 1.74296930505862
+vacuum_tube here 1.49165487677772
+vacuum_tube there 1.49165487677772
+</item>
+
+<item>
+valve lightbulb 1.89711998488588
+valve vacuum_tube 2.30258509299405
+valve tube 2.59026716544583
+valve cylinder 2.07944154167984
+valve thing 2.07944154167984
+valve item 2.07944154167984
+valve object 1.89711998488588
+valve here 1.6094379124341
+valve there 1.6094379124341
+</item>
+
+<item>
+vase jar 2.99573227355399
+vase bottle 2.30258509299405
+vase glass 2.07944154167984
+vase container 2.30258509299405
+vase vessel 2.59026716544583
+vase thing 1.74296930505862
+vase item 1.6094379124341
+vase object 1.6094379124341
+vase here 1.38629436111989
+vase there 1.38629436111989
+</item>
+
+<item>
+wineglass glass 2.99573227355399
+wineglass dish 2.30258509299405
+wineglass goblet 2.59026716544583
+wineglass chalice 2.07944154167984
+wineglass flagon 2.07944154167984
+wineglass flute 2.99573227355399
+wineglass cup 2.30258509299405
+wineglass tumbler 2.59026716544583
+wineglass container 2.59026716544583
+wineglass vessel 2.30258509299405
+wineglass thing 1.89711998488588
+wineglass item 1.74296930505862
+wineglass object 1.74296930505862
+wineglass here 1.49165487677772
+wineglass there 1.49165487677772
+</item>
+
+<item>
+wall partition 2.99573227355399
+wall divider 2.99573227355399
+wall bank 2.30258509299405
+wall bar 2.07944154167984
+wall barricade 2.30258509299405
+wall barrier 2.59026716544583
+wall block 2.30258509299405
+wall blockade 2.07944154167984
+wall levee 2.59026716544583
+wall enclosure 2.07944154167984
+wall fence 3.3322045101752
+wall panel 2.07944154167984
+wall rampart 3.68887945411394
+wall retainer 1.74296930505862
+wall screen 2.59026716544583
+wall hurdle 2.30258509299405
+</item>
+
+<item>
+floor flooring 3.68887945411394
+floor level 3.68887945411394
+floor storey 3.68887945411394
+floor story 3.68887945411394
+floor surface 2.99573227355399
+floor base 3.68887945411394
+floor land 2.99573227355399
+floor hall 2.99573227355399
+floor basement 2.99573227355399
+floor canvas 2.07944154167984
+floor carpet 1.89711998488588
+floor flat 2.30258509299405
+floor ground 2.99573227355399
+floor deck 3.3322045101752
+floor stage 2.30258509299405
+floor mat 1.89711998488588
+floor mezzanine 2.99573227355399
+floor room 2.99573227355399
+</item>
+
+<item>
+room floor 2.99573227355399
+room chamber 2.99573227355399
+room office 1.89711998488588
+room area 2.99573227355399
+room bedroom 2.99573227355399
+room living_room 2.99573227355399
+room bathroom 2.99573227355399
+room study 2.99573227355399
+</item>

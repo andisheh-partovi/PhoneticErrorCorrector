@@ -1,0 +1,547 @@
+# Kinds of Things
+#################
+
+
+########################
+# General Kinds of Thing
+########################
+
+define template Furniture: Thing
+	under_can_be_inside=Y
+	container=N
+	movable=N
+	called = furniture
+
+define template Clothing: Thing
+	movable=Y
+	washable=Y
+	called = clothing
+	container=N
+	#called+=clothes
+
+define template Robot: Thing
+	movable=Y
+	washable=N
+	called=robot
+	pronoun =you
+	pronoun +=your
+	pronoun +=yours
+	pronoun +=yourself
+
+define template Eraser: Thing
+	movable=Y
+	washable=N
+	container=N
+	called = eraser
+
+define template Transistor: Thing
+	movable=Y
+	washable=N
+	called = transistor
+	container=N
+
+define template Floor: Thing
+	movable=N
+	washable=N
+	called = floor
+
+define template Earmuffs: Thing
+	movable=Y
+	washable=N
+	called = earmuffs
+
+define template Container: Thing
+	called = container
+	container=Y
+
+define template Vase: Thing
+	called = vase
+	movable=Y
+	container=Y
+
+define template Food: Thing
+	movable=Y
+	called = food
+	edible=Y
+	container=N
+
+define template Drink: Thing
+	called = drink
+	drinkable=Y
+	container=N
+
+define template Vehicle: Thing
+	called = vehicle
+	container=Y
+
+#############################
+# Specific Kinds of Furniture
+#############################
+
+define template Table: Furniture
+	called = table
+	container=N
+
+define template Desk: Table
+	called = desk
+	container=Y
+
+define template Dinner_Table: Table
+	called = dinner_table
+	container=N
+
+define template Chair: Furniture
+	called = chair
+	container=N
+
+define template Straight_Chair: Chair
+	called = straight_chair
+
+define template Sofa: Chair
+	under_can_be_inside=N
+	called = sofa
+
+define template Cupboard: Furniture
+	called = cupboard
+	container=Y
+	opennable=Y
+
+define template Bookcase: Furniture
+	under_can_be_inside=N
+	called = bookcase
+	container=Y
+
+define template Shelves: Furniture
+	called = shelves
+	container=N
+	
+define template Chest: Furniture
+	under_can_be_inside=N
+	called = chest
+	container=Y
+	
+define template Bin: Furniture
+	under_can_be_inside=N
+	called = bin
+	container=Y
+	openable=N
+
+define template Sink: Furniture
+	under_can_be_inside=N
+	called = sink
+	#called += tub
+	#called += trough
+	container=Y
+	
+define template Bed: Furniture
+	called = bed
+	container=N
+	
+############################
+# Kinds of Components
+############################
+
+define template Door: Thing
+	called = door
+	openable=Y
+	movable = N
+
+define template Drawer: Thing
+	called = drawer
+	container=Y
+	openable=Y
+	movable = Y
+
+define template Window: Thing
+	called = window
+	movable=N
+	container=N
+
+##############################
+# Specific Food Related Things
+##############################
+
+define template Fruit: Food
+	called = fruit
+
+define template Juice: Drink
+	called = juice
+
+define template Can: Container
+	shape=cylinder
+	# not sure about why this _any_ 	
+	colour=_any_
+	movable=Y
+	called = can
+
+define template Coffee_Plunger: Container
+	shape=cylinder
+	# not sure about why this _any_ 	
+	colour=_any_
+	movable=Y
+	called = plunger
+	called += french_press
+
+define template Dishes: Thing
+	called = dish
+	called += dishes
+	washable=Y
+	movable=Y
+	container=N
+
+define template Knife: Thing
+	called = knife
+	washable=Y
+	movable=Y
+	container=N
+	
+define template Cup: Dishes
+	shape=cylinder
+	# not sure about why this _any_ 	
+	colour=_any_
+	size=small
+	container=Y
+	called = cup
+
+define template Tumbler: Dishes
+	shape=cylinder
+	# not sure about why this _any_ 	
+	colour=_any_
+	size=small
+	container=Y
+	called = tumbler
+
+define template Mug: Cup
+	called = mug
+	container=Y
+
+define template Plate: Dishes
+	shape=disc
+	# not sure about why this _any_ 	
+	colour=_any_
+	called = plate
+	container=N
+
+define template Dinner_Plate: Plate
+	shape=disc
+	# not sure about why this _any_ 	
+	colour=_any_
+	called = dinner_plate
+
+define template Bowl: Dishes
+	shape=hemisphere
+	# not sure about why this _any_ 	
+	colour=_any_
+	size=small
+	container=Y
+	called = bowl
+#	called+=ball
+
+
+###############
+# Kinds of Food
+###############
+
+define template Pizza: Food
+	shape=cylinder
+	colour=_any_
+	called = pizza
+
+define template Sandwich: Food
+	shape=box
+	colour=_any_
+	called = sandwich
+
+
+####################
+# Kinds of Machine
+####################
+
+define template Machine: Thing
+	operatable = Y
+	canbe_onoff = Y
+	called = machine
+	container=N
+
+define template Television: Machine
+	called = television
+	called += tele
+	called += telli
+	movable = N
+	shape = box
+
+define template Fan: Machine
+	called = fan
+
+define template Computer: Machine
+	called = computer
+
+define template Desktop: Computer
+	called = desktop
+	movable=N
+
+define template Laptop: Computer
+	called = laptop
+	movable=Y
+
+define template Monitor: Machine
+	called = monitor
+	movable = Y
+
+define template Keyboard: Thing
+	called = keyboard
+	movable = Y
+	container=N
+
+define template Phone: Machine
+	called = telephone
+
+define template Lamp: Thing
+	called = lamp
+	container=N
+	
+define template Desk_Lamp: Lamp
+	called = desk_lamp
+	
+define template Floor_Lamp: Lamp
+	called = floor_lamp
+	
+define template Portrait: Thing
+	called = portrait
+	container=N
+	
+define template Carpet: Thing
+	called = carpet
+	container=N
+	
+define template Printer: Machine
+	called = printer
+	container=Y
+
+define template Adapter: Machine
+	movable=Y
+	size=small
+	washable=N
+	called = adapter
+	called += adaptor
+
+
+########################
+# Kinds of Containers
+########################
+
+define template Box: Thing
+	called = box
+	container=Y
+	shape = box
+#	movable = Y
+
+define template Bag: Thing
+	called = bag
+	#called += sack
+	#called += backpack
+	#called += pack
+	#called += rucksack
+	container=Y
+	movable = Y
+
+define template Case: Bag
+	called = case
+	#called += suitcase
+	#called += briefcase
+	#called += attaché
+	#called += valise
+	#called += portmanteau
+
+define template Bottle: Thing
+	called = bottle
+	container = Y
+	movable = Y
+	washable = Y
+
+define template Tray: Thing
+	called = tray
+	container=N
+	movable=Y
+	washable = Y
+
+
+###################
+# Kinds of Items
+###################
+
+define template File: Thing
+	called = file
+	openable = Y
+	movable = Y
+	container = Y
+
+define template Folder: Thing
+	called = folder
+	openable = Y
+	movable = Y
+	container = Y
+
+define template Book: Thing
+	called = book
+	openable = Y
+	movable = Y
+	size = small
+	shape = rectangle
+	container = Y
+
+define template Newspaper: Thing
+	called = newspaper
+	openable = Y
+	movable = Y
+	shape = rectangle
+	size = small
+	container = Y
+
+#IZ
+define template Diary: Book
+	called = diary
+	called = calendar
+	container = Y
+
+#IZ
+define template Notebook: Book
+	called = notebook
+	#called += notepad
+	#called += pad
+	container = Y
+
+#IZ
+define template Plant: Thing
+	called = plant
+	#called += potplant
+	waterable = Y
+	movable = N
+	container = N
+
+#IZ
+define template Purse: Thing
+	called = wallet
+	#called += purse
+	movable = Y
+	container = Y
+
+define template Keys: Thing
+	called = keys
+	movable = Y
+	container = N
+
+#IZ
+define template Disc: Thing
+	called = disc
+	#called += cd
+	#called += dvd
+	movable=Y
+	container = N
+
+define template Ball: Thing
+	called = ball
+	movable = Y
+	shape = round
+	container = N
+
+define template Beach_Ball: Ball
+	called = beach_ball
+
+#IZ
+define template Ornament: Thing
+	called = ornament
+	#called += statue
+	#called += figurine
+	container = N
+
+#IZ
+define template Gun: Thing
+	called = gun
+	#called += pistol
+	#called += firearm
+	#called += revolver
+	#called += automatic
+	#called += handgun
+	movable=Y
+	container = N
+
+
+###########################
+# Kinds of Office Equipment
+###########################
+
+define template Pen: Thing
+	shape=cylinder
+	# not sure about why this _any_ 	
+	colour=_any_
+	size=small
+	movable=Y
+	called = pen
+	container = N
+
+
+###################
+# Kinds of Clothing
+###################
+
+#IZ
+define template Hat: Clothing
+	called = hat
+	container = Y
+
+#IZ
+define template Glasses: Clothing
+	called = glasses
+	#called += spectacles
+	#called += specs
+	container = N
+
+#IZ
+define template Shirt: Clothing
+	#called += top
+	called = shirt
+	container = N
+
+#IZ
+define template Pants: Clothing
+	called = pants
+	#called += trousers
+	#called += slacks
+	container = N
+
+#IZ
+define template Jacket: Clothing
+	called = jacket
+	#called += coat
+	container = N
+
+#SU
+define template Microwave: Machine
+	called = microwave 
+	container=Y
+
+define template Glass: Dishes
+	called = glass
+	container = Y
+
+define template Wineglass: Dishes 
+	called = wineglass
+	container = Y
+
+#SU: since knife is Thing, I put Thing for screwdriver and hammer
+define template Screwdriver: Thing
+	called = screwdriver
+	container = N
+
+define template Hammer: Thing
+	called = hammer 
+	container = N
+
+define template Stool: Furniture
+	called = stool
+	container = N
+
+define template Wall: Thing
+	called = wall
+	container = N

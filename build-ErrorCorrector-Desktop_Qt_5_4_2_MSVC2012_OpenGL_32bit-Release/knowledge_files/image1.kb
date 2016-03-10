@@ -1,0 +1,104 @@
+# The semantics of the attributes 'location_xyz', 'size_wdh', and 'angle'
+# as used in this file are a bit peculiar. The attribute 'size_wdh' refers
+# to the dimensions width, depth, and height of each object. It is
+# independent of the concrete location of an object in the room or its
+# rotation. In contrast, the attribute 'location_xyz' defines the minimal
+# corner of the bounding box of an object in the room, i.e., the corner
+# with the smallest x,y,z coordinates. This value thus depends on both the
+# location of an object and on its rotation angle. Finally, the 'angle'
+# attributes describes the rotation of an object in clock-wise radians
+# when looking down on the x,y-plane (negative z-direction).
+
+define concept brown_table1:Table
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 1.5:0.6:0.7
+	location_xyz = 3:0.722:0
+	angle = 0
+
+define concept orange_ball2:Ball
+	colour = orange
+	colour_coord = 67.623:45.972:74.742
+	size_wdh = 0.1:0.1:0.1
+	location_xyz = 3.965:1.126:0
+	angle = 0
+
+define concept red_plate3:Plate
+	colour = red
+	colour_coord = 54.29:80.819:69.895
+	size_wdh = 0.2:0.2:0.02
+	location_xyz = 3.535:0.976:0.7
+	angle = 0
+
+define concept black_portrait4:Portrait
+	colour = black
+	colour_coord = 0.0:0.0:0.0
+	size_wdh = 0.3:0.02:0.36
+	location_xyz = 3.851:0.722:1.2
+	angle = 0
+
+define concept black_portrait5:Portrait
+	colour = black
+	colour_coord = 0.0:0.0:0.0
+	size_wdh = 0.3:0.02:0.37
+	location_xyz = 4.658:0.722:1.2
+	angle = 0
+
+define concept brown_desktop6:Desktop
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.17:0.38:0.34
+	location_xyz = 3.412:0.843:0
+	angle = 0
+
+define concept brown_desktop7:Desktop
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.17:0.38:0.34
+	location_xyz = 4.632:1.043:0
+	angle = 0
+
+define concept brown_plant8:Plant
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.25:0.25:0.25
+	location_xyz = 5.025:0.936:0
+	angle = 0
+
+define concept brown_plant9:Plant
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.25:0.25:0.25
+	location_xyz = 3.205:0.996:0.7
+	angle = 0
+
+define concept white_laptop10:Laptop
+	colour = white
+	colour_coord = 99.999:0.018274:-0.018065
+	size_wdh = 0.3:0.3:0.28
+	location_xyz = 4.148:0.862:0.7
+	angle = 0
+
+define concept speaker11:Speaker
+	speaker = Y
+	colour = yellow
+	colour_coord = 97.606:-15.732:93.387
+	size_wdh = 0.7:0.4:1.38
+	location_xyz = 3.712:3.593:0
+	angle = 3.151
+
+define concept grey_wall12:Wall
+	colour = grey
+	colour_coord = 76.975:0.014647:-0.014479
+	size_wdh = 3.57:0.076:3.81
+	location_xyz = 2.335:0.637:0
+	angle = 0.0
+
+define concept floor13:Floor
+    colour = grey
+#   colour_coord = 97.606:-15.732:93.387
+    colour_coord = 76.975:0.014647:-0.014479
+    size_wdh = 3.57:2.0:0.4
+    #location_xyz = 2.335:0.722:-0.400
+    location_xyz = 2.335:0.713:-0.400
+    angle = 0

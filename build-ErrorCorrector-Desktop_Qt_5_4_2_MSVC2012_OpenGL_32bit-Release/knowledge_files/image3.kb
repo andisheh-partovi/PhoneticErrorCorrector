@@ -1,0 +1,67 @@
+# The semantics of the attributes 'location_xyz', 'size_wdh', and 'angle'
+# as used in this file are a bit peculiar. The attribute 'size_wdh' refers
+# to the dimensions width, depth, and height of each object. It is
+# independent of the concrete location of an object in the room or its
+# rotation. In contrast, the attribute 'location_xyz' defines the minimal
+# corner of the bounding box of an object in the room, i.e., the corner
+# with the smallest x,y,z coordinates. This value thus depends on both the
+# location of an object and on its rotation angle. Finally, the 'angle'
+# attributes describes the rotation of an object in clock-wise radians
+# when looking down on the x,y-plane (negative z-direction).
+
+define concept yellow_table1:Dinner_Table
+	colour = yellow
+	colour_coord = 97.606:-15.732:93.387
+	size_wdh = 2:1.2:0.74
+	location_xyz = 2.71:1.008:0
+	angle = 0
+
+define concept blue_plate2:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 3.395:1.258:0.74
+	angle = 0
+
+define concept blue_plate3:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 2.775:2.018:0.74
+	angle = 0
+
+define concept blue_plate4:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 3.555:1.538:0.74
+	angle = 0
+
+define concept blue_plate5:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 2.895:1.578:0.74
+	angle = 0
+
+define concept blue_plate6:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 4.515:1.438:0.74
+	angle = 0
+
+define concept blue_plate7:Plate
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.2:0.2:0.015
+	location_xyz = 3.795:2.018:0.74
+	angle = 0
+
+define concept speaker8:Speaker
+	speaker = Y
+	#colour = yellow
+	#colour_coord = 97.606:-15.732:93.387
+	size_wdh = 0.7:0.4:1.800
+	location_xyz = 3.424:3.175:0.140
+	angle = 3.112721

@@ -1,0 +1,133 @@
+# The semantics of the attributes 'location_xyz', 'size_wdh', and 'angle'
+# as used in this file are a bit peculiar. The attribute 'size_wdh' refers
+# to the dimensions width, depth, and height of each object. It is
+# independent of the concrete location of an object in the room or its
+# rotation. In contrast, the attribute 'location_xyz' defines the minimal
+# corner of the bounding box of an object in the room, i.e., the corner
+# with the smallest x,y,z coordinates. This value thus depends on both the
+# location of an object and on its rotation angle. Finally, the 'angle'
+# attributes describes the rotation of an object in clock-wise radians
+# when looking down on the x,y-plane (negative z-direction).
+
+define concept yellow_table1:Dinner_Table
+	colour = yellow
+	colour_coord = 97.606:-15.732:93.387
+	size_wdh = 1.711:0.705:0.74
+	location_xyz = 2.514:2.516:0
+	%%location_xyz = 1.825:2.762:0
+	%%size_wdh = 0.4:0.4:0.457
+	angle = 0
+
+define concept purple_chest2:Chest
+	colour = purple
+	colour_coord = 44.43:72.013:-78.484
+	size_wdh = 1.016:0.559:1.27
+	location_xyz = 5.037:2.36:0
+	angle = 1.571
+
+define concept pink_ball3:Ball
+	colour = pink
+	colour_coord = 83.787:24.453:3.7446
+	size_wdh = 0.127:0.127:0.127
+	location_xyz = 2.835:2.795:0.74
+	angle = 0
+
+define concept green_bookcase4:Bookcase
+	colour = green
+	colour_coord = 87.818:-79.258:80.987
+	size_wdh = 1.073:0.412:1.3
+	location_xyz = 2.987:1.25:0
+	angle = 0
+
+define concept pink_ball5:Ball
+	colour = pink
+	colour_coord = 83.787:24.453:3.7446
+	size_wdh = 0.508:0.508:0.508
+	location_xyz = 3.131:4.133:0
+	angle = 0
+
+define concept blue_chest6:Chest
+	colour = blue
+	colour_coord = 29.565:68.301:-112.05
+	size_wdh = 0.819:0.464:0.838
+	location_xyz = 0.972:1.234:0
+	angle = 0
+
+define concept brown_bookcase7:Bookcase
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.819:0.441:1.499
+	location_xyz = 5.121:5.013:0
+	angle = 1.571
+
+define concept brown_plant8:Plant
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.584:0.508:0.813
+	location_xyz = 1.079:1.162:0.838
+	angle = 0
+
+define concept brown_stool9:Stool
+    colour = brown
+    colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.4:0.4:0.457
+	location_xyz = 1.825:2.762:0
+	angle = 0
+
+define concept brown_stool10:Stool
+    colour = brown
+    colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.4:0.4:0.457
+	location_xyz = 4.652:5.176:0
+	angle = 0
+
+define concept brown_stool11:Stool
+    colour = brown
+    colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.4:0.4:0.457
+	location_xyz = 4.359:2.482:0
+	angle = 0
+
+define concept brown_hammer12:Hammer
+	colour = brown
+	colour_coord = 38.148:50.394:31.831
+	size_wdh = 0.107:0.3:0.041
+	location_xyz = 3.078:3.367:0
+	angle = 1.571
+
+define concept speaker13:Speaker
+	speaker = Y
+	#colour = yellow
+	#colour_coord = 97.606:-15.732:93.387
+	size_wdh = 0.7:0.4:1.800
+	location_xyz = 2.182:8.804:1.519
+	angle = 3.3778455
+
+define concept grey_wall14:Wall
+	speaker = N
+	colour = grey
+	colour_coord = 97.606:-15.732:93.387
+	size_wdh = 4.801:0.05:2.438
+	#location_xyz = 0.86:1.146:0.000
+	location_xyz = 0.86:1.096:0.000
+	angle = 0
+
+define concept grey_wall15:Wall
+	speaker = N
+	colour = grey
+	colour_coord = 76.975:0.014647:-0.014479
+	#size_wdh = 0.05:4.622:2.438
+	#size_wdh = 4.622:0.05:2.438
+	size_wdh = 4.722:0.05:2.438
+	#location_xyz = 5.611:1.196:0.000
+	location_xyz = 5.611:1.146:0.000
+	angle = 1.571
+
+define concept floor16:Floor
+	speaker = N
+	colour = grey
+	colour_coord = 76.975:0.014647:-0.014479
+	size_wdh = 4.801:4.622:0.400
+	#location_xyz = 0.86:1.196:-0.400
+	location_xyz = 0.86:1.146:-0.400
+	angle = 0
